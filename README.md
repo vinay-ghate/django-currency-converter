@@ -49,6 +49,8 @@ python manage.py createsuperuser
 python manage.py runserver
 ```
 
+[Note] : Step 3.4 are not necessory, you can directly jump to Step 5
+
 6. Access the web application in your browser at http://localhost:8000/
 
 ## Usage
